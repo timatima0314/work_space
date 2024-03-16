@@ -15,6 +15,7 @@ tests/**/coverage/
 *.sln
 
 .env.*
-
+Auto-typing/
 
 out/
+electron-auto-typing-tech-examp
